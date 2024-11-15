@@ -45,6 +45,7 @@ This repository contains a collection of resources that I have found useful in m
 
 - [Awesome Go](https://github.com/avelino/awesome-go)
 - [Effective Go](https://go.dev/doc/effective_go)
+- [Avoid interface pollution](https://www.ardanlabs.com/blog/2016/10/avoid-interface-pollution.html)
 
 ## AI
 
